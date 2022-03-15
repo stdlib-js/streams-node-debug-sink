@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/streams-node-debug-sink",
-  "version": "0.0.6",
+  "version": "0.0.0",
   "description": "Writable stream for debugging stream pipelines.",
   "license": "Apache-2.0",
   "author": {
@@ -45,6 +45,7 @@
     "@stdlib/assert-is-plain-object": "^0.0.x",
     "@stdlib/assert-is-string": "^0.0.x",
     "@stdlib/streams-node-inspect-sink": "^0.0.x",
+    "@stdlib/string-format": "^0.0.x",
     "@stdlib/utils-copy": "^0.0.x",
     "@stdlib/utils-define-nonenumerable-read-only-property": "^0.0.x",
     "@stdlib/utils-inherit": "^0.0.x",
