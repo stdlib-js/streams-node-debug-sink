@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/streams-node-debug-sink",
-  "version": "0.0.0",
+  "version": "0.0.6",
   "description": "Writable stream for debugging stream pipelines.",
   "license": "Apache-2.0",
   "author": {
