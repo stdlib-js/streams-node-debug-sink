@@ -38,12 +38,12 @@ C -->|bundle| D[esm];
 C -->|bundle| E[deno];
 C -->|bundle| F[umd];
 
-click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/streams/node/debug-sink"
-click B href "https://github.com/stdlib-js/streams-node-debug-sink/tree/main"
-click C href "https://github.com/stdlib-js/streams-node-debug-sink/tree/production"
-click D href "https://github.com/stdlib-js/streams-node-debug-sink/tree/esm"
-click E href "https://github.com/stdlib-js/streams-node-debug-sink/tree/deno"
-click F href "https://github.com/stdlib-js/streams-node-debug-sink/tree/umd"
+%% click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/streams/node/debug-sink"
+%% click B href "https://github.com/stdlib-js/streams-node-debug-sink/tree/main"
+%% click C href "https://github.com/stdlib-js/streams-node-debug-sink/tree/production"
+%% click D href "https://github.com/stdlib-js/streams-node-debug-sink/tree/esm"
+%% click E href "https://github.com/stdlib-js/streams-node-debug-sink/tree/deno"
+%% click F href "https://github.com/stdlib-js/streams-node-debug-sink/tree/umd"
 ```
 
 [stdlib-url]: https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/streams/node/debug-sink

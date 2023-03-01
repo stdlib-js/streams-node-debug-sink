@@ -257,8 +257,8 @@ s1.end();
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/streams/node/debug`][@stdlib/streams/node/debug]</span><span class="delimiter">: </span><span class="description">transform stream for debugging stream pipelines.</span>
--   <span class="package-name">[`@stdlib/streams/node/inspect-sink`][@stdlib/streams/node/inspect-sink]</span><span class="delimiter">: </span><span class="description">writable stream for inspecting streamed data.</span>
+-   <span class="package-name">[`@stdlib/streams-node/debug`][@stdlib/streams/node/debug]</span><span class="delimiter">: </span><span class="description">transform stream for debugging stream pipelines.</span>
+-   <span class="package-name">[`@stdlib/streams-node/inspect-sink`][@stdlib/streams/node/inspect-sink]</span><span class="delimiter">: </span><span class="description">writable stream for inspecting streamed data.</span>
 
 </section>
 
