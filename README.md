@@ -44,7 +44,7 @@ limitations under the License.
 To use in Observable,
 
 ```javascript
-debugSinkStream = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/streams-node-debug-sink@umd/browser.js' )
+debugSinkStream = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/streams-node-debug-sink@v0.1.0-umd/browser.js' )
 ```
 
 To vendor stdlib functionality and avoid installing dependency trees for Node.js, you can use the UMD server build:
@@ -56,7 +56,7 @@ var debugSinkStream = require( 'path/to/vendor/umd/streams-node-debug-sink/index
 To include the bundle in a webpage,
 
 ```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/streams-node-debug-sink@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/streams-node-debug-sink@v0.1.0-umd/browser.js"></script>
 ```
 
 If no recognized module system is present, access bundle contents via the global scope:
