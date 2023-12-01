@@ -52,7 +52,7 @@
     "debug": "^2.6.9"
   },
   "devDependencies": {
-    "@stdlib/bench": "^0.2.0",
+    "@stdlib/bench": "^0.2.1",
     "@stdlib/buffer-from-string": "^0.1.1",
     "@stdlib/streams-node-transform": "^0.1.0",
     "@stdlib/utils-next-tick": "^0.1.1",
