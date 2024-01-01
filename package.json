@@ -52,7 +52,6 @@
     "debug": "^2.6.9"
   },
   "devDependencies": {
-    "@stdlib/bench": "^0.2.1",
     "@stdlib/buffer-from-string": "^0.1.1",
     "@stdlib/streams-node-transform": "^0.1.0",
     "@stdlib/utils-next-tick": "^0.1.1",
@@ -61,7 +60,8 @@
     "proxyquire": "^2.0.0",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
-    "tap-min": "git+https://github.com/Planeshifter/tap-min.git"
+    "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
+    "@stdlib/bench-harness": "^0.1.2"
   },
   "engines": {
     "node": ">=0.10.0",
