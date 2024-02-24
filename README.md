@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import debugSinkStream from 'https://cdn.jsdelivr.net/gh/stdlib-js/streams-node-debug-sink@deno/mod.js';
+import debugSinkStream from 'https://cdn.jsdelivr.net/gh/stdlib-js/streams-node-debug-sink@v0.2.1-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory, objectMode } from 'https://cdn.jsdelivr.net/gh/stdlib-js/streams-node-debug-sink@deno/mod.js';
+import { factory, objectMode } from 'https://cdn.jsdelivr.net/gh/stdlib-js/streams-node-debug-sink@v0.2.1-deno/mod.js';
 ```
 
 <a name="debug-sink-stream"></a>
